@@ -1,0 +1,14 @@
+student
+System
+teacher
+banana
+Apple
+java
+File
+NoteBook
+writer
+print
+reader
+Only
+inputstream
+Start
